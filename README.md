@@ -21,7 +21,7 @@ Melanoma is a deadly form of skin cancer that accounts for 75% of skin cancer de
   - Training accuracy limited to 70-75% even after 25 epochs
   - Potential data imbalance causing model bias
 
-![Overfitting Visualization](overfitting_gif.gif) 
+![Overfitting Visualization](overfitting.png) 
 
 ### Data Augmentation Approach
 
