@@ -7,9 +7,56 @@ Melanoma is a deadly form of skin cancer that accounts for 75% of skin cancer de
 ## 📊 Project Overview
 
 ### Dataset
-- **Source**: Skin Cancer ISIC Dataset
-- **Content**: Multiple types of skin cancer images
-- **Objective**: Develop an AI-powered diagnostic tool for early melanoma detection
+Dataset
+
+Source: Skin Cancer 9 Classes ISIC Dataset on Kaggle
+Content:
+
+9 different classes of skin lesions
+Total of 2357 images
+High-quality dermatoscopic images
+
+
+Classes:
+
+Actinic Keratosis
+Basal Cell Carcinoma
+Benign Keratosis
+Dermatofibroma
+Melanoma
+Melanocytic Nevus
+Squamous Cell Carcinoma
+Seborrheic Keratosis
+Vascular Lesion
+
+
+
+Dataset Download Instructions
+
+Kaggle Account:
+
+Create a Kaggle account if you don't have one
+Go to the dataset page
+
+
+Download Methods:
+bashCopy# Using Kaggle CLI
+kaggle datasets download -d nodoubttome/skin-cancer9-classesisic
+
+# Manual Download
+# Click "Download" on the Kaggle dataset page
+
+Recommended Project Structure:
+Copyskin-cancer-detection/
+├── data/
+│   ├── train/
+│   │   ├── actinic_keratosis/
+│   │   ├── basal_cell_carcinoma/
+│   │   └── ... (other classes)
+│   └── test/
+│       └── ... (similar structure)
+└── notebooks/
+    └── skin_cancer_detection.ipynb
 
 ## 🚀 Project Journey and Findings
 
