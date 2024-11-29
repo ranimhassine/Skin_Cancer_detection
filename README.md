@@ -41,7 +41,7 @@ Melanoma is a deadly form of skin cancer that accounts for 75% of skin cancer de
   - Overfitting problem substantially addressed
   - Train and validation set difference reduced to 4-5%
 
-![Class Balancing Results](class_balance.png)
+![Class Balancing Results](class_balance.png) 
 
 ## 🏆 Key Takeaways
 
