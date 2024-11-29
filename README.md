@@ -110,8 +110,9 @@ skin-cancer-detection/
 - Investigating ensemble methods
 - Collecting more diverse training data
 
-## 📦 Installation and Setup
+## 📦 Installation and Usage
 
+### Repository Setup
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/skin-cancer-detection.git
@@ -127,6 +128,14 @@ pip install -r requirements.txt
 jupyter notebook skin_cancer_detection.ipynb
 ```
 
+### Web Interface
+Try the interactive skin cancer detection model on Hugging Face Spaces:
+🔗 [Skin Cancer Detection Web App](https://huggingface.co/spaces/ranimo/skin_cancer_detection)
+
+- Upload skin lesion images
+- Get instant classification results
+- User-friendly interface for quick analysis
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
@@ -135,9 +144,6 @@ Contributions, issues, and feature requests are welcome!
 - Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 - Push to the branch (`git push origin feature/AmazingFeature`)
 - Open a Pull Request
-
-
-Specify your project's license here (e.g., MIT, Apache 2.0)
 
 ## 🙏 Acknowledgments
 
