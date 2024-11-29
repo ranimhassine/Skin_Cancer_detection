@@ -31,7 +31,7 @@ Melanoma is a deadly form of skin cancer that accounts for 75% of skin cancer de
   - Model accuracy temporarily compromised
   - Identified clear scope for further improvement
 
-![Data Augmentation Process](data_augmentation_gif.gif)
+![Data Augmentation Process](data_augmentation.png)
 
 ### Class Balancing Strategy
 
