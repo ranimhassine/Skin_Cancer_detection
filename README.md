@@ -1,5 +1,5 @@
 # Skin Cancer Detection using CNN 🩺🔬
-           
+            
 ## 🎯 Problem Statement
 
 Melanoma is a deadly form of skin cancer that accounts for 75% of skin cancer deaths. Early detection is crucial for effective treatment. This project aims to develop a Convolutional Neural Network (CNN) based model that can accurately detect skin cancer, potentially reducing the manual effort required in diagnosis.
